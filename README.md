@@ -4,7 +4,7 @@
 
 This project is a Password Complexity Checker tool written in Python. It evaluates the strength of passwords based on several criteria, including length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides feedback on whether a password is considered strong, moderate, or weak.
 
-![Password Strength Checker](images/password-checker.png)
+![Password Strength Checker](passwords.png)
 
 ## Features
 
